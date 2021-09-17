@@ -1,0 +1,411 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The article page Articles page renderer as expected 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <div>
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-lg-12"
+        >
+          <h2>
+            POPULAR ARTICLES
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="container"
+    >
+      <div
+        className="row "
+      >
+        <div
+          className="col-lg-8"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-lg-7"
+            >
+              <div
+                className="art-pad"
+                style={
+                  Object {
+                    "backgroundColor": "#F0F0F0",
+                  }
+                }
+              >
+                <div>
+                  <div
+                    className="img-trasform"
+                  >
+                    <img
+                      alt=""
+                      src="article1_PhRMA_Innovation_5RecentDevelopment-desktophero.jpg"
+                      style={
+                        Object {
+                          "height": "320px",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "padding": "5px",
+                      }
+                    }
+                  >
+                    <h4>
+                      5 Recent developments & Advancing Vaccines
+                    </h4>
+                    <a
+                      className="readmore-btn"
+                      href="/#"
+                    >
+                      READ MORE 
+                      <i
+                        aria-hidden="true"
+                        className="fa fa-play"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-lg-5"
+            >
+              <div
+                className="art-pad"
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": "#F0F0F0",
+                    }
+                  }
+                >
+                  <div
+                    className="img-trasform"
+                  >
+                    <img
+                      alt=""
+                      src="article_5PhRMAInnovationUnderstandingTheRDdesktop.jpg"
+                      style={
+                        Object {
+                          "height": "auto",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "padding": "5px",
+                      }
+                    }
+                  >
+                    <h4>
+                      5 Recent developments & Advancing Vaccines
+                    </h4>
+                    <a
+                      className="readmore-btn"
+                      href="/#"
+                    >
+                      READ MORE 
+                      <i
+                        aria-hidden="true"
+                        className="fa fa-play"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="art-pad"
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": "#F0F0F0",
+                    }
+                  }
+                >
+                  <div
+                    className="img-trasform"
+                  >
+                    <img
+                      alt=""
+                      src="article_4Innovationorg_WorldAIDSDay_Thumbnail.png"
+                      style={
+                        Object {
+                          "height": "auto",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "padding": "5px",
+                      }
+                    }
+                  >
+                    <h4>
+                      5 Recent developments & Advancing Vaccines
+                    </h4>
+                    <a
+                      className="readmore-btn"
+                      href="/#"
+                    >
+                      READ MORE 
+                      <i
+                        aria-hidden="true"
+                        className="fa fa-play"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="col-lg-5"
+            >
+              <div
+                className="art-pad"
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": "#F0F0F0",
+                    }
+                  }
+                >
+                  <div
+                    className="img-trasform"
+                  >
+                    <img
+                      alt=""
+                      src="article2_Vaccine Safety Desktop.png"
+                      style={
+                        Object {
+                          "height": "auto",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "padding": "5px",
+                      }
+                    }
+                  >
+                    <h4>
+                      5 Recent developments & Advancing Vaccines
+                    </h4>
+                    <a
+                      className="readmore-btn"
+                      href="/#"
+                    >
+                      READ MORE 
+                      <i
+                        aria-hidden="true"
+                        className="fa fa-play"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-lg-7"
+            >
+              <div
+                className="art-pad"
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": "#F0F0F0",
+                    }
+                  }
+                >
+                  <div
+                    className="img-trasform"
+                  >
+                    <img
+                      alt=""
+                      src="article6_Header.png"
+                      style={
+                        Object {
+                          "height": "auto",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "padding": "5px",
+                      }
+                    }
+                  >
+                    <h4>
+                      5 Recent developments & Advancing Vaccines
+                    </h4>
+                    <a
+                      className="readmore-btn"
+                      href="/#"
+                    >
+                      READ MORE 
+                      <i
+                        aria-hidden="true"
+                        className="fa fa-play"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-4"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-lg-12"
+            >
+              <div
+                className="art-pad"
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": "#F0F0F0",
+                    }
+                  }
+                >
+                  <div
+                    className="img-trasform"
+                  >
+                    <img
+                      alt=""
+                      src="article3_Innovationorg_RareDiseaseDay_Thumbnail.jpg"
+                      style={
+                        Object {
+                          "height": "200px",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "padding": "5px",
+                      }
+                    }
+                  >
+                    <h4>
+                      5 Recent developments & Advancing Vaccines
+                    </h4>
+                    <a
+                      className="readmore-btn"
+                      href="/#"
+                    >
+                      READ MORE 
+                      <i
+                        aria-hidden="true"
+                        className="fa fa-play"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-lg-12"
+            >
+              <div
+                className="art-pad"
+              >
+                <div
+                  style={
+                    Object {
+                      "backgroundColor": "#F0F0F0",
+                    }
+                  }
+                >
+                  <div
+                    className="img-trasform"
+                  >
+                    <img
+                      alt=""
+                      src="article7_Innovation_BrainAwareness_Thumbnail.png"
+                      style={
+                        Object {
+                          "height": "200px",
+                          "width": "100%",
+                        }
+                      }
+                    />
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "padding": "5px",
+                      }
+                    }
+                  >
+                    <h4>
+                      5 Recent developments & Advancing Vaccines
+                    </h4>
+                    <a
+                      className="readmore-btn"
+                      href="/#"
+                    >
+                      READ MORE 
+                      <i
+                        aria-hidden="true"
+                        className="fa fa-play"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

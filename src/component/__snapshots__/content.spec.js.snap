@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The content page Content page renderer as expected 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    style={
+      Object {
+        "paddingTop": "10px",
+        "textAlign": "left",
+      }
+    }
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-lg-6"
+      >
+        <h2>
+          Neque porro quisquam est qui dolorem ipsum quia...
+        </h2>
+        <p
+          style={
+            Object {
+              "paddingTop": "10px",
+            }
+          }
+        >
+          T is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+        </p>
+      </div>
+      <div
+        className="col-lg-6"
+      >
+        <div
+          style={
+            Object {
+              "margin": "5px 10px",
+            }
+          }
+        >
+          <iframe
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen="1"
+            data-gtm-yt-inspected-12046840_43="true"
+            data-gtm-yt-inspected-12046840_67="true"
+            data-gtm-yt-inspected-45531815_196="true"
+            data-gtm-yt-inspected-45531815_297="true"
+            data-gtm-yt-inspected-45531815_361="true"
+            data-gtm-yt-inspected-45531815_362="true"
+            data-gtm-yt-inspected-45531815_383="true"
+            data-gtm-yt-inspected-45531815_57="true"
+            frameBorder="0"
+            id="mejs_12471328365664247_youtube_iframe"
+            src="https://www.youtube.com/embed/0XJHp_PBm74?enablejsapi=1&origin=https%3A%2F%2Finnovation.org"
+            style={
+              Object {
+                "height": "260px",
+                "width": "100%",
+              }
+            }
+            title="YouTube video player"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Takeaction Component Takeaction component page renderer as expected 1`] = `
+<div
+  className="container-fluid"
+>
+  <ul
+    className="d-flex justify-content-around align-middle"
+    style={
+      Object {
+        "list-style": "none",
+      }
+    }
+  >
+    <li
+      className="email social-link  social-net"
+    >
+      <a
+        href="/#"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-envelope"
+        />
+         STAY AHEAD
+      </a>
+    </li>
+    <li
+      className="social-link  social-net"
+    >
+      <a
+        href="/#"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-facebook"
+        />
+         
+      </a>
+      <a
+        href="/#"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-twitter"
+        />
+         
+      </a>
+      <a
+        href="/#"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-linkedin"
+        />
+         
+      </a>
+    </li>
+    <li
+      className="takeaction social-link"
+    >
+      <a
+        href="/#"
+      >
+        <i
+          aria-hidden="true"
+          className="fa fa-search"
+        />
+         
+      </a>
+      <a
+        className="btn bg-green text-black"
+        href="/#"
+        style={
+          Object {
+            "fontSize": "13px",
+          }
+        }
+      >
+        TAKE ACTION
+      </a>
+    </li>
+  </ul>
+</div>
+`;

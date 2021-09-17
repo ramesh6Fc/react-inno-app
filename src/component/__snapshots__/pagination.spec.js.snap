@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Pagination page Pagination page renderer as expected 1`] = `
+<div>
+  <nav>
+    <ul
+      className="pagination float-right"
+    >
+      <li
+        className="page-item"
+      >
+        <select
+          onChange={[Function]}
+          style={
+            Object {
+              "margin": "5px",
+            }
+          }
+        >
+          <option>
+            5
+          </option>
+          <option>
+            10
+          </option>
+          <option>
+            20
+          </option>
+          <option>
+            50
+          </option>
+        </select>
+        <span
+          style={
+            Object {
+              "marginRight": "10px",
+            }
+          }
+        >
+          /Page:  
+        </span>
+      </li>
+      <li>
+        <a
+          aria-label="Previous"
+          href="#/"
+        >
+          <span
+            aria-hidden="true"
+            onClick={[Function]}
+            style={
+              Object {
+                "fontSize": "large",
+                "marginRight": "10px",
+              }
+            }
+          >
+            «
+          </span>
+        </a>
+      </li>
+      <li
+        className="page-item"
+      >
+        <select
+          onChange={[Function]}
+          style={
+            Object {
+              "margin": "5px",
+            }
+          }
+        />
+      </li>
+      <li
+        lassName="page-item"
+      >
+        <a
+          aria-label="Next"
+          href="#/"
+        >
+          <span
+            aria-hidden="true"
+            onClick={[Function]}
+            style={
+              Object {
+                "fontSize": "large",
+                "marginLeft": "10px",
+              }
+            }
+          >
+            »
+          </span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;

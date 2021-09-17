@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Footer page Footer page renderer as expected 1`] = `
+<div
+  className="container-fluid"
+  style={
+    Object {
+      "background": "#252525",
+      "borderTop": "2px solid #87a72d",
+      "padding": "10px",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "margin": "12px 30px 0px 50px",
+      }
+    }
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-lg-3"
+      >
+        <img
+          alt=""
+          src="https://innovation.org/-/media/Project/PhRMA/Innovation-Org/Innovation-Org/abc-logo.svg"
+          style={
+            Object {
+              "height": "40px",
+              "margin": "0px 0px",
+              "textAlign": "left",
+              "width": "auto",
+            }
+          }
+        />
+      </div>
+      <div
+        className="col-lg-8"
+      >
+        <p
+          style={
+            Object {
+              "color": "#999",
+              "fontSize": "15px",
+              "textAlign": "left",
+            }
+          }
+        >
+          Explore the innovative research and technological breakthroughs of America's biopharmaceutical industry, and get to know the people behind the fight to prevent, treat and cure disease.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

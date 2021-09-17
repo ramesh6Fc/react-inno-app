@@ -1,0 +1,696 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The body page Body page renderer as expected 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "marginTop": "80px",
+      }
+    }
+  >
+    <div
+      className="carousel slide"
+      onKeyDown={[Function]}
+      onMouseOut={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+    >
+      <ol
+        className="carousel-indicators"
+      >
+        <li
+          className="active"
+          onClick={[Function]}
+        />
+        <li
+          onClick={[Function]}
+        />
+        <li
+          onClick={[Function]}
+        />
+      </ol>
+      <div
+        className="carousel-inner"
+      >
+        <div
+          className="active carousel-item"
+        >
+          <img
+            alt="slider"
+            className="d-block w-100"
+            src="https://innovation.org/-/media/Project/PhRMA/Innovation-Org/Innovation-Org/Banners/Innovation_Vaccine-Manufacturing-Collab_header_desktop.jpeg?h=1079&w=3841&hash=C23D43AE5E1CD50C566F136E0AA0A0ED"
+          />
+          <div
+            className="carousel-caption"
+          >
+            <h3>
+              Some Title Have Some Content
+            </h3>
+            <p>
+              In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+            </p>
+          </div>
+        </div>
+        <div
+          className="carousel-item"
+        >
+          <img
+            alt="slider"
+            className="d-block w-100"
+            src="https://innovation.org/-/media/Project/PhRMA/Innovation-Org/Import/2020-06/P/PhRMA_Innovation_COVID-Interviews-Thumbnail_v1.jpg?h=594&w=1500&hash=93A11226C908D7E5F19E99FE8D2A969B"
+          />
+          <div
+            className="carousel-caption"
+          >
+            <h3>
+              The test Have Some Test Result
+            </h3>
+            <p>
+              In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+            </p>
+          </div>
+        </div>
+        <div
+          className="carousel-item"
+        >
+          <img
+            alt="slider"
+            className="d-block w-100"
+            src="https://innovation.org/-/media/Project/PhRMA/Innovation-Org/Innovation-Org/Content-Authoring/Banners/Monoclonal-Antibodies-Desktop.png"
+          />
+          <div
+            className="carousel-caption"
+          >
+            <h3>
+              The Analytical Resuls
+            </h3>
+            <p>
+              In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <a
+        className="carousel-control-prev"
+        href="#"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+      >
+        <span
+          aria-hidden="true"
+          className="carousel-control-prev-icon"
+        />
+        <span
+          className="sr-only"
+        >
+          Previous
+        </span>
+      </a>
+      <a
+        className="carousel-control-next"
+        href="#"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+      >
+        <span
+          aria-hidden="true"
+          className="carousel-control-next-icon"
+        />
+        <span
+          className="sr-only"
+        >
+          Next
+        </span>
+      </a>
+    </div>
+  </div>,
+  <div
+    style={
+      Object {
+        "margin": "10px 100px",
+      }
+    }
+  >
+    <div
+      className="container-fluid"
+    >
+      <div
+        style={
+          Object {
+            "paddingTop": "50px",
+            "textAlign": "left",
+          }
+        }
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col-lg-6"
+          >
+            <h2>
+              Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+            </h2>
+            <p
+              style={
+                Object {
+                  "paddingTop": "10px",
+                }
+              }
+            >
+              T is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+            </p>
+          </div>
+          <div
+            className="col-lg-6"
+          >
+            <div
+              style={
+                Object {
+                  "margin": "5px 10px",
+                }
+              }
+            >
+              <iframe
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen="1"
+                data-gtm-yt-inspected-12046840_43="true"
+                data-gtm-yt-inspected-12046840_67="true"
+                data-gtm-yt-inspected-45531815_196="true"
+                data-gtm-yt-inspected-45531815_297="true"
+                data-gtm-yt-inspected-45531815_361="true"
+                data-gtm-yt-inspected-45531815_362="true"
+                data-gtm-yt-inspected-45531815_383="true"
+                data-gtm-yt-inspected-45531815_57="true"
+                frameBorder="0"
+                id="mejs_12471328365664247_youtube_iframe"
+                src="https://www.youtube.com/embed/mdVul-RBW-4?enablejsapi=1&origin=https%3A%2F%2Finnovation.org"
+                style={
+                  Object {
+                    "height": "260px",
+                    "width": "100%",
+                  }
+                }
+                title="YouTube video player"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr
+      style={
+        Object {
+          "margin": "50px 0",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "textAlign": "left",
+        }
+      }
+    >
+      <div>
+        <div
+          className="container"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-lg-12"
+            >
+              <h2>
+                POPULAR ARTICLES
+              </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          className="container"
+        >
+          <div
+            className="row "
+          >
+            <div
+              className="col-lg-8"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-lg-7"
+                >
+                  <div
+                    className="art-pad"
+                    style={
+                      Object {
+                        "backgroundColor": "#F0F0F0",
+                      }
+                    }
+                  >
+                    <div>
+                      <div
+                        className="img-trasform"
+                      >
+                        <img
+                          alt=""
+                          src="article1_PhRMA_Innovation_5RecentDevelopment-desktophero.jpg"
+                          style={
+                            Object {
+                              "height": "320px",
+                              "width": "100%",
+                            }
+                          }
+                        />
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "padding": "5px",
+                          }
+                        }
+                      >
+                        <h4>
+                          5 Recent developments & Advancing Vaccines
+                        </h4>
+                        <a
+                          className="readmore-btn"
+                          href="/#"
+                        >
+                          READ MORE 
+                          <i
+                            aria-hidden="true"
+                            className="fa fa-play"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-lg-5"
+                >
+                  <div
+                    className="art-pad"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "backgroundColor": "#F0F0F0",
+                        }
+                      }
+                    >
+                      <div
+                        className="img-trasform"
+                      >
+                        <img
+                          alt=""
+                          src="article_5PhRMAInnovationUnderstandingTheRDdesktop.jpg"
+                          style={
+                            Object {
+                              "height": "auto",
+                              "width": "100%",
+                            }
+                          }
+                        />
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "padding": "5px",
+                          }
+                        }
+                      >
+                        <h4>
+                          5 Recent developments & Advancing Vaccines
+                        </h4>
+                        <a
+                          className="readmore-btn"
+                          href="/#"
+                        >
+                          READ MORE 
+                          <i
+                            aria-hidden="true"
+                            className="fa fa-play"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    className="art-pad"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "backgroundColor": "#F0F0F0",
+                        }
+                      }
+                    >
+                      <div
+                        className="img-trasform"
+                      >
+                        <img
+                          alt=""
+                          src="article_4Innovationorg_WorldAIDSDay_Thumbnail.png"
+                          style={
+                            Object {
+                              "height": "auto",
+                              "width": "100%",
+                            }
+                          }
+                        />
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "padding": "5px",
+                          }
+                        }
+                      >
+                        <h4>
+                          5 Recent developments & Advancing Vaccines
+                        </h4>
+                        <a
+                          className="readmore-btn"
+                          href="/#"
+                        >
+                          READ MORE 
+                          <i
+                            aria-hidden="true"
+                            className="fa fa-play"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="row"
+              >
+                <div
+                  className="col-lg-5"
+                >
+                  <div
+                    className="art-pad"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "backgroundColor": "#F0F0F0",
+                        }
+                      }
+                    >
+                      <div
+                        className="img-trasform"
+                      >
+                        <img
+                          alt=""
+                          src="article2_Vaccine Safety Desktop.png"
+                          style={
+                            Object {
+                              "height": "auto",
+                              "width": "100%",
+                            }
+                          }
+                        />
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "padding": "5px",
+                          }
+                        }
+                      >
+                        <h4>
+                          5 Recent developments & Advancing Vaccines
+                        </h4>
+                        <a
+                          className="readmore-btn"
+                          href="/#"
+                        >
+                          READ MORE 
+                          <i
+                            aria-hidden="true"
+                            className="fa fa-play"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-lg-7"
+                >
+                  <div
+                    className="art-pad"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "backgroundColor": "#F0F0F0",
+                        }
+                      }
+                    >
+                      <div
+                        className="img-trasform"
+                      >
+                        <img
+                          alt=""
+                          src="article6_Header.png"
+                          style={
+                            Object {
+                              "height": "auto",
+                              "width": "100%",
+                            }
+                          }
+                        />
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "padding": "5px",
+                          }
+                        }
+                      >
+                        <h4>
+                          5 Recent developments & Advancing Vaccines
+                        </h4>
+                        <a
+                          className="readmore-btn"
+                          href="/#"
+                        >
+                          READ MORE 
+                          <i
+                            aria-hidden="true"
+                            className="fa fa-play"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-lg-4"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-lg-12"
+                >
+                  <div
+                    className="art-pad"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "backgroundColor": "#F0F0F0",
+                        }
+                      }
+                    >
+                      <div
+                        className="img-trasform"
+                      >
+                        <img
+                          alt=""
+                          src="article3_Innovationorg_RareDiseaseDay_Thumbnail.jpg"
+                          style={
+                            Object {
+                              "height": "200px",
+                              "width": "100%",
+                            }
+                          }
+                        />
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "padding": "5px",
+                          }
+                        }
+                      >
+                        <h4>
+                          5 Recent developments & Advancing Vaccines
+                        </h4>
+                        <a
+                          className="readmore-btn"
+                          href="/#"
+                        >
+                          READ MORE 
+                          <i
+                            aria-hidden="true"
+                            className="fa fa-play"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="col-lg-12"
+                >
+                  <div
+                    className="art-pad"
+                  >
+                    <div
+                      style={
+                        Object {
+                          "backgroundColor": "#F0F0F0",
+                        }
+                      }
+                    >
+                      <div
+                        className="img-trasform"
+                      >
+                        <img
+                          alt=""
+                          src="article7_Innovation_BrainAwareness_Thumbnail.png"
+                          style={
+                            Object {
+                              "height": "200px",
+                              "width": "100%",
+                            }
+                          }
+                        />
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "padding": "5px",
+                          }
+                        }
+                      >
+                        <h4>
+                          5 Recent developments & Advancing Vaccines
+                        </h4>
+                        <a
+                          className="readmore-btn"
+                          href="/#"
+                        >
+                          READ MORE 
+                          <i
+                            aria-hidden="true"
+                            className="fa fa-play"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr
+      style={
+        Object {
+          "margin": "30px 0",
+        }
+      }
+    />
+    <div
+      className="container-fluid"
+    >
+      <div
+        style={
+          Object {
+            "paddingTop": "10px",
+            "textAlign": "left",
+          }
+        }
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col-lg-6"
+          >
+            <h2>
+              Neque porro quisquam est qui dolorem ipsum quia...
+            </h2>
+            <p
+              style={
+                Object {
+                  "paddingTop": "10px",
+                }
+              }
+            >
+              T is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+            </p>
+          </div>
+          <div
+            className="col-lg-6"
+          >
+            <div
+              style={
+                Object {
+                  "margin": "5px 10px",
+                }
+              }
+            >
+              <iframe
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen="1"
+                data-gtm-yt-inspected-12046840_43="true"
+                data-gtm-yt-inspected-12046840_67="true"
+                data-gtm-yt-inspected-45531815_196="true"
+                data-gtm-yt-inspected-45531815_297="true"
+                data-gtm-yt-inspected-45531815_361="true"
+                data-gtm-yt-inspected-45531815_362="true"
+                data-gtm-yt-inspected-45531815_383="true"
+                data-gtm-yt-inspected-45531815_57="true"
+                frameBorder="0"
+                id="mejs_12471328365664247_youtube_iframe"
+                src="https://www.youtube.com/embed/0XJHp_PBm74?enablejsapi=1&origin=https%3A%2F%2Finnovation.org"
+                style={
+                  Object {
+                    "height": "260px",
+                    "width": "100%",
+                  }
+                }
+                title="YouTube video player"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

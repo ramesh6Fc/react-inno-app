@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The registration page Registration page renderer as expected 1`] = `
+<div
+  className="cards cards-container"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <div>
+      <div
+        className="form-elemt"
+      >
+        <label
+          htmlFor="username"
+        >
+          Username
+        </label>
+        <div>
+          <input
+            className="form-input"
+            name="username"
+            onBlur={[Function]}
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        className="form-elemt"
+      >
+        <label
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <div>
+          <input
+            className="form-input"
+            name="email"
+            onBlur={[Function]}
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        className="form-elemt"
+      >
+        <label
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <div>
+          <input
+            className="form-input"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        className="form-elemt"
+      >
+        <button
+          className="button"
+          style={
+            Object {
+              "cursor": "pointer",
+            }
+          }
+        >
+          Sign Up
+        </button>
+      </div>
+    </div>
+    
+    <button
+      disabled={true}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+    />
+  </form>
+  <div
+    style={
+      Object {
+        "cursor": "pointer",
+        "fontSize": "11px",
+        "textAlign": "right",
+      }
+    }
+  >
+    <a
+      href="!#"
+      style={
+        Object {
+          "color": "#fff",
+        }
+      }
+    >
+      Sign In
+    </a>
+  </div>
+</div>
+`;

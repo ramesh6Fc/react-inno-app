@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Device mnagement Link Component Device mnagement Link component page renderer as expected 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-lg-1"
+    >
+       
+    </div>
+    <div
+      className="col-lg-11"
+    >
+      <ul
+        className="d-flex justify-content-around align-right"
+        style={
+          Object {
+            "list-style": "none",
+          }
+        }
+      >
+        <li
+          className="takeaction social-link"
+        >
+          <div
+            className="dropdown"
+            style={
+              Object {
+                "fontSize": "13px",
+              }
+            }
+          >
+            <button
+              aria-expanded={false}
+              aria-haspopup={true}
+              className="dropdown-toggle btn btn-primary"
+              disabled={false}
+              id="dropdown-basic-button"
+              onClick={[Function]}
+              type="button"
+            >
+              DEVICE ACTIONS
+            </button>
+          </div>
+        </li>
+        <li
+          className="takeaction social-link"
+        >
+          <div
+            className="dropdown"
+            style={
+              Object {
+                "fontSize": "13px",
+              }
+            }
+          >
+            <button
+              aria-expanded={false}
+              aria-haspopup={true}
+              className="dropdown-toggle btn btn-primary"
+              disabled={false}
+              id="dropdown-sim-action"
+              onClick={[Function]}
+              type="button"
+            >
+              SIM ACTIONS
+            </button>
+          </div>
+        </li>
+        <li />
+      </ul>
+    </div>
+  </div>
+</div>
+`;
